@@ -1,0 +1,28 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.dylib
+*.so
+
+# Node
+node_modules/
+.next/
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# DB
+chroma_db/
+
+# OS
+.DS_Store
+
+# Large files
+*.bin
+*.h5
